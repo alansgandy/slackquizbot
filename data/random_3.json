@@ -205,7 +205,7 @@
   ],
   "settings": {
     "startQuestionGap": 3,
-    "questionTime": 60,
+    "questionTime": 20,
     "nextQuestionGap": 5,
     "pointsPerQuestion": 1,
     "randomise": true
