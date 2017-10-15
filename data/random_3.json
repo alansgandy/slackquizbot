@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "text": "What nation produces two thirds of the world's vanilla? Clue: starts with letter M",
+      "text": "Python is considered a good first language to learn because:\na.	it has a simple syntax\nb.	it has most of the features of traditional programming languages\nc.	it is open source\nd.	all of the above",
       "answers": [
         {
           "text": [
-            "Madagascar"
+            "d."
           ]
         }
       ],
