@@ -163,11 +163,19 @@
       ]
     },
     {
-      "text": "The youngest pope ever was -- years old.",
+      "text": "Python is considered a good first language to learn because:
+a.
+it has a simple syntax
+b.
+it has most of the features of traditional programming languages
+c.
+it is open source
+d.
+all of the above",
       "answers": [
         {
           "text": [
-            "11"
+            "d"
           ]
         }
       ]
@@ -206,8 +214,8 @@
   "settings": {
     "startQuestionGap": 3,
     "questionTime": 60,
-    "nextQuestionGap": 10,
+    "nextQuestionGap": 5,
     "pointsPerQuestion": 1,
-    "randomise": false
+    "randomise": true
   }
 }
