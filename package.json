@@ -1,28 +1,25 @@
+
 {
   "name": "slackquizbot",
-  "version": "0.1.11",
-  "description": "A Slack bot who can run custom quizzes in your Slack channel",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "a slack quizbot",
+  "main": "myquizbot.js",
+  "dependencies": {
+    "slackquizbot": "*"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myquizbot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codebyfire/slackquizbot.git"
+    "url": "git+https://github.com/alansgandy/slackquizbot.git"
   },
-  "keywords": [
-    "slack",
-    "bot",
-    "quiz"
-  ],
-  "dependencies": {
-    "eventemitter3": "^1.1.1",
-    "slackbotapi": "*"
-  },
-  "author": "Richard Wallis <codebyfire@gmail.com> (http://codebyfire.com)",
-  "license": "GPL-2.0",
+  "author": "alan.s.gandy@lonestar.edu",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codebyfire/slackquizbot/issues"
+    "url": "https://github.com/alansgandy/slackquizbot/issues"
   },
-  "homepage": "https://github.com/codebyfire/slackquizbot#readme"
+  "homepage": "https://github.com/alansgandy/slackquizbot#readme"
 }
