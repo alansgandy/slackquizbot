@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
+      "text": "Which operation takes\n more than O(1) time with\nthe Hash Table data structure?",
       "answers": [
         {
           "text": [
