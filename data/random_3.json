@@ -207,7 +207,7 @@
     "startQuestionGap": 3,
     "questionTime": 20,
     "nextQuestionGap": 5,
-    "pointsPerQuestion": 1,
+    "pointsPerQuestion": 10,
     "randomise": true
   }
 }
